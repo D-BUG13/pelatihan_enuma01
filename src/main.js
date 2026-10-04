@@ -129,6 +129,19 @@ async function loadStudents() {
                                         </strong>
                                     </div>
 
+                                    <div>
+        
+        
+                                    <span>
+                                      AKUN GITHUB
+                                    </span>
+
+                                        <strong>
+                                            ${student.akun_github}
+                                        </strong>
+                                    </div>
+
+
                                 </div>
 
                             </div>
