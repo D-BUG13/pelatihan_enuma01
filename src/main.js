@@ -5,7 +5,6 @@ const studentIds = [
     "student-002",
     "student-003",
     "student-004",
-    "student-005"
 ];
 
 async function getStudent(studentId) {
